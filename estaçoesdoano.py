@@ -1,4 +1,5 @@
 #respeita que o pai e gueto
+#eu tembém mano arnold
 
 print('\033[0;49;31mAno 2023')
 dia = int(input('\033[0;49;31mdigite um dia\n'))
